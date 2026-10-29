@@ -60,4 +60,4 @@ async def bet(ctx, amount: int):
         
     save_data(data)
 
-Bot.run("MTU2NTM1NjIzNTgxMTcyMTMyOA.GfG3Ef.my3Eyk_g4XU7YutIG_ZozbtyqSj9NREWqMFW4s") 
+bot.run("MTU2NTM1NjIzNTgxMTcyMTMyOA.GfG3Ef.my3Eyk_g4XU7YutIG_ZozbtyqSj9NREWqMFW4s") 
